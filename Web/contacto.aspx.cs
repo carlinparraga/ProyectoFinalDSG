@@ -11,14 +11,33 @@ namespace Web
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            message.Text = "";
+            //message.Text = "";
         }
 
         protected void enviar_Click(object sender, EventArgs e)
         {
-            if (Page.IsValid)
+            //if (Page.IsValid)
+            //{
+            //    message.Text = "Tu mensaje ha sido enviado.";
+            //}
+        }
+
+        protected void Button1_Click(object sender, EventArgs e)
+        {
+            double suma = double.Parse("x") + 5.0;
+        }
+
+        protected void Button2_Click(object sender, EventArgs e)
+        {
+            try
             {
-                message.Text = "Tu mensaje ha sido enviado.";
+
+                double suma = Convert.ToDouble("x") + 5.0;
+            }
+            catch (Exception)
+            {
+                Response.Redirect("donde.aspx");
+
             }
         }
     }

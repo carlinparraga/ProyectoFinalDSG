@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\ProyectoFinal</_PublishTargetUrl>
+    <History>True|2023-01-07T04:11:34.1895105Z;True|2023-01-06T23:02:49.5908184-05:00;True|2023-01-06T22:44:52.2513337-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Web.dll">
+      <publishTime>01/06/2023 22:44:51</publishTime>
+    </File>
+    <File Include="bin/Web.pdb">
+      <publishTime>01/06/2023 22:44:51</publishTime>
+    </File>
+    <File Include="contacto.aspx">
+      <publishTime>01/06/2023 23:09:57</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="css/carousel.css">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="css/estilos.css">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="Default.Master">
+      <publishTime>01/06/2023 21:26:28</publishTime>
+    </File>
+    <File Include="donde.aspx">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="hacer.aspx">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/113.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/115.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/13.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/16.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/40.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/69.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/BasilicaNeogoticoQuito.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/bgFeel.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/bgTips.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/canoa.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/cochasqui.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/Guayaquil-300x300.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/isabela.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/presentacion-oficial.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="img/yasuni.jpg">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="js/npm.js">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="tips.aspx">
+      <publishTime>01/06/2023 21:21:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/06/2023 23:11:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

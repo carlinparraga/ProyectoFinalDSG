@@ -3,3 +3,10 @@ C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.dll
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\bin\Web.pdb
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.dll
 C:\Users\jmoscoso\Desktop\Proyecto\Web\Web\obj\Debug\Web.pdb
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\bin\Web.dll.config
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\bin\Web.dll
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\bin\Web.pdb
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Debug\Web.dll
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Debug\Web.pdb

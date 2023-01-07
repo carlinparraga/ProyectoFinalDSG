@@ -1,0 +1,7 @@
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\bin\Web.dll.config
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\bin\Web.dll
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\bin\Web.pdb
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Release\Web.csproj.AssemblyReference.cache
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Release\Web.csproj.CoreCompileInputs.cache
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Release\Web.dll
+D:\UPS\ProyectoFinal\ASP.NET-WebForms-Example\Web\obj\Release\Web.pdb
