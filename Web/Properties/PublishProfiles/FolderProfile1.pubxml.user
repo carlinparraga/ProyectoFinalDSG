@@ -5,7 +5,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>C:\inetpub\wwwroot\ProyectoFinalCorregidoWebConfig</_PublishTargetUrl>
-    <History>True|2023-01-07T04:10:38.6451134Z;True|2023-01-06T23:05:06.0600295-05:00;True|2023-01-06T22:41:10.3621842-05:00;True|2023-01-06T22:39:53.3164933-05:00;True|2023-01-06T22:38:59.4935687-05:00;True|2023-01-06T22:37:58.8092524-05:00;</History>
+    <History>True|2023-01-07T04:35:15.9325273Z;True|2023-01-06T23:10:38.6451134-05:00;True|2023-01-06T23:05:06.0600295-05:00;True|2023-01-06T22:41:10.3621842-05:00;True|2023-01-06T22:39:53.3164933-05:00;True|2023-01-06T22:38:59.4935687-05:00;True|2023-01-06T22:37:58.8092524-05:00;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Web.dll">
@@ -15,7 +15,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>01/06/2023 22:44:51</publishTime>
     </File>
     <File Include="contacto.aspx">
-      <publishTime>01/06/2023 23:09:57</publishTime>
+      <publishTime>01/06/2023 23:33:37</publishTime>
     </File>
     <File Include="css/bootstrap.css">
       <publishTime>01/06/2023 21:21:43</publishTime>
@@ -111,7 +111,7 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>01/06/2023 21:21:43</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>01/06/2023 23:05:05</publishTime>
+      <publishTime>01/06/2023 23:35:15</publishTime>
     </File>
   </ItemGroup>
 </Project>

@@ -27,6 +27,12 @@
         <h4>SubCategoría</h4>
         <h5>CWE-756: Missing Custom Error Page</h5>
         <h5>El software no devuelve páginas de error personalizadas al usuario, posiblemente exponiendo información confidencial.</h5>
+             <br />
+        <h4>Alcance</h4>
+        <h5>Confidencialidad.</h5>
+             <br />
+        <h4>Impacto</h4>
+        <h5>Los atacantes pueden aprovechar la información adicional proporcionada por una página de error predeterminada para montar ataques dirigidos al marco, la base de datos u otros recursos utilizados por la aplicación.</h5>
         <p><a href="https://cwe.mitre.org/data/definitions/756.html" target="_blank" class="btn btn-link">Más información &raquo;</a></p>
         <asp:Button ID="Button1" CssClass="btn btn-default" runat="server" Text="Mostrar Error" OnClick="Button1_Click" />
         <br />
